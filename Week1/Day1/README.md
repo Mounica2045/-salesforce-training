@@ -113,17 +113,28 @@ An Object in Salesforce is a database table used to store data. Each object cont
 Example: Account Object – used to store information about companies or customers.
 
 
-4. Difference between Salesforce Admin and Developer
+4. Difference between Salesforce Admin and Salesforce developer 
+
+Salesforce Admin
+
+Manages and configures Salesforce platform
+
+Handles users, security, reports, dashboards, and workflows
+
+Uses mostly no-code or low-code tools
+
+Maintains day-to-day system operations
 
 
+Salesforce Developer
 
-Salesforce Admin	Salesforce Developer
+Develops custom applications and features in Salesforce
 
-Manages and configures Salesforce	Builds custom applications and features
-Works with users, security, reports, and workflows	Writes code using Apex and Visualforce/LWC
-Mostly no-code or low-code work	Coding and programming involved
-Maintains the platform	Extends platform functionality
+Writes code using Apex, Visualforce, and Lightning Web Components (LWC)
 
+Creates integrations and advanced automation
+
+Extends the functionality of the Salesforce platform
 
 5. Suggest one real-world application that can be built using Salesforce.
 A Hospital Management System can be built using Salesforce to manage patient records, appointments, doctor schedules, billing, and customer support efficiently.
