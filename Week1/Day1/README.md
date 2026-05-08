@@ -100,3 +100,34 @@ Then (Action): The resulting step the system takes, such as automatically updati
 
 <img width="1904" height="914" alt="Screenshot 2026-05-07 222142" src="https://github.com/user-attachments/assets/00e41999-1ce6-4090-89b2-fa3c1e615f6d" />
 
+1. What problem does Salesforce solve?
+Salesforce solves the problem of managing customer relationships, sales, support, and business operations in one centralized cloud platform. It helps companies track customers, automate tasks, improve communication, and increase productivity.
+
+
+2. What is CRM?
+CRM stands for Customer Relationship Management. It is a system used to store and manage customer information, interactions, sales, support, and business activities to improve customer relationships and business growth.
+
+
+3. What is an Object in Salesforce? Give one example.
+An Object in Salesforce is a database table used to store data. Each object contains records and fields.
+Example: Account Object – used to store information about companies or customers.
+
+
+4. Difference between Salesforce Admin and Developer
+
+
+
+Salesforce Admin	Salesforce Developer
+
+Manages and configures Salesforce	Builds custom applications and features
+Works with users, security, reports, and workflows	Writes code using Apex and Visualforce/LWC
+Mostly no-code or low-code work	Coding and programming involved
+Maintains the platform	Extends platform functionality
+
+
+5. Suggest one real-world application that can be built using Salesforce.
+A Hospital Management System can be built using Salesforce to manage patient records, appointments, doctor schedules, billing, and customer support efficiently.
+
+
+
+
