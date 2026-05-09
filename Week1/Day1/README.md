@@ -87,18 +87,6 @@ Automations (Flows): Salesforce allows you to build automated workflows using th
 When (Event): The trigger that kicks off the automation, such as a new record being created or updated
 .
 If (Condition): The entry conditions used to narrow the scope, ensuring the automation only runs in specific scenarios (e.g., only if a lead was generated from a "book consultation" form)
-.
-Then (Action): The resulting step the system takes, such as automatically updating a related record or sending an email alert
-
-<img width="1903" height="901" alt="Screenshot 2026-05-07 234040" src="https://github.com/user-attachments/assets/9b3ea173-6d12-42a6-aa91-e8df1a003641" />
-
-<img width="1903" height="911" alt="Screenshot 2026-05-07 233830" src="https://github.com/user-attachments/assets/1062d88f-d967-4547-a6fe-1638fda243fa" />
-
-<img width="1903" height="911" alt="Screenshot 2026-05-07 233830" src="https://github.com/user-attachments/assets/e390313e-4c12-49f8-9147-c8af5743f169" />
-
-<img width="1904" height="914" alt="Screenshot 2026-05-07 222142" src="https://github.com/user-attachments/assets/deb1e030-1b4f-48be-8b14-f47596df6273" />
-
-<img width="1904" height="914" alt="Screenshot 2026-05-07 222142" src="https://github.com/user-attachments/assets/00e41999-1ce6-4090-89b2-fa3c1e615f6d" />
 
 1. What problem does Salesforce solve?
 Salesforce solves the problem of managing customer relationships, sales, support, and business operations in one centralized cloud platform. It helps companies track customers, automate tasks, improve communication, and increase productivity.
@@ -139,6 +127,7 @@ Extends the functionality of the Salesforce platform
 5. Suggest one real-world application that can be built using Salesforce.
 A Hospital Management System can be built using Salesforce to manage patient records, appointments, doctor schedules, billing, and customer support efficiently.
 
+<img width="1903" height="907" alt="Screenshot 2026-05-09 204346" src="https://github.com/user-attachments/assets/1051efde-8d9e-461d-a80d-f3c2045c3358" />
 
 
 
