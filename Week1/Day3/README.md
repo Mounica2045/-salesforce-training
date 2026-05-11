@@ -161,6 +161,112 @@ Systems become scalable
 Reports and analytics become easy
 Teams can collaborate efficiently
 
+REFLECTIVE QUESTIONS:-
+
+## 1. Why can’t companies manage everything using Excel sheets?
+
+Excel sheets work for small amounts of data, but large companies handle millions of records. Managing everything in spreadsheets can cause:
+
+* Duplicate data
+* Human errors
+* Difficulty in tracking updates
+* Poor security
+* Slow reporting
+* Problems when multiple people edit at the same time
+
+Enterprise systems organize data properly and make management faster, safer, and more efficient.
+
+---
+
+## 2. Why are relationships important between objects?
+
+Relationships connect related data between objects. They help systems understand how information is linked.
+
+Example:
+
+* A Student belongs to a Department
+* A Faculty teaches Courses
+
+Without relationships, data becomes disconnected and difficult to manage. Relationships reduce duplication and make reporting easier.
+
+---
+
+## 3. What problems happen if data is inconsistent?
+
+Inconsistent data creates confusion and wrong results.
+
+Examples:
+
+* Same student name entered differently in multiple places
+* Incorrect attendance values
+* Different phone numbers for the same person
+
+Problems caused:
+
+* Wrong reports
+* Poor decision-making
+* Duplicate records
+* Loss of trust in data
+* Operational mistakes
+
+---
+
+## 4. Why should repetitive calculations be automated?
+
+Manual calculations take time and can lead to mistakes. Automation:
+
+* Saves time
+* Reduces human error
+* Provides accurate results instantly
+* Improves productivity
+
+Example:
+Automatically calculating attendance percentage or grades using formula fields instead of calculating manually every time.
+
+---
+
+## 5. Why should invalid data be blocked early?
+
+Blocking invalid data early prevents incorrect information from entering the system.
+
+Examples:
+
+* Preventing letters in phone number fields
+* Blocking attendance greater than total classes
+* Ensuring email format is correct
+
+Benefits:
+
+* Maintains data quality
+* Reduces future errors
+* Improves system reliability
+* Makes reports accurate
+
+---
+
+## 6. Why is Salesforce called a metadata-driven platform?
+
+Salesforce is called a metadata-driven platform because its applications are built using metadata instead of hard-coded programming.
+
+Metadata means “data about data,” such as:
+
+* Objects
+* Fields
+* Relationships
+* Validation rules
+* Workflows
+
+In Salesforce, admins can customize applications by changing metadata without modifying the actual code. This makes Salesforce:
+
+* Flexible
+* Easy to customize
+* Faster to develop
+* Easy to maintain
+
+For example, adding a new field to a Student object can be done without writing complex code.
+
+
+
 Therefore, structured data is the foundation of modern enterprise applications and business systems.
 <img width="1903" height="907" alt="Screenshot 2026-05-09 204346" src="https://github.com/user-attachments/assets/ed51d584-98bc-486d-a04e-e98692758de6" />
 <img width="792" height="486" alt="Screenshot 2026-05-09 175005" src="https://github.com/user-attachments/assets/660b3bf0-fd51-42e2-9cc9-eb4de07c2bad" />
