@@ -1,8 +1,3 @@
-# `/day4-flow-builder/`
-
-## `README.md`
-
-````markdown
 # Day 4 - Flow Builder
 
 ## 1. What is Flow Builder?
@@ -95,8 +90,6 @@ Manager Approves/Rejects
 HR Record Updated Automatically
             ↓
 Employee Gets Notification
-````
-
 You can also create diagrams using:
 
 * draw.io
