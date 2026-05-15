@@ -179,20 +179,6 @@ Automation should be avoided when:
 
 Automation performs tasks the same way every time, reducing mistakes and increasing speed. Employees can focus on strategic work instead of repetitive tasks.
 
----
-
-````
-
-## Suggested Folder Structure
-
-```text
-/day4-flow-builder/
-│
-├── README.md
-├── flow-diagram.png
-└── assets/
-    └── screenshots/
-````
 
 ## Example Flow Diagram Ideas
 
