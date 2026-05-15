@@ -409,4 +409,9 @@ Student Applies for Leave → Validation Check → Faculty Approval → Status U
 
 ![Image](https://images.openai.com/static-rsc-4/nxsAqHr0t6SZo8_YYqCeHqaTL6pE9tOUS10J97owOJCp0j5BD5EcNEuGND3nLWCOpBj_ei33G4kOxq67mc_rcCfnKHrTmyCNxv-7CmW5hcz7qBnS8BjXLJygC67FV_GiP5IP0lgz_ecz02z6DxxObAXXspzuOqTfQ4cUREoLu8fzpLb-bBLXm_J4-rpK1WrQ?purpose=fullsize)
 
+#trailhead examples
 
+<img width="1231" height="913" alt="Screenshot 2026-05-15 233201" src="https://github.com/user-attachments/assets/2154cf55-3da7-4f18-8a5c-625a6220c448" />
+<img width="1074" height="578" alt="Screenshot 2026-05-15 233151" src="https://github.com/user-attachments/assets/84fd546b-aa5f-4a35-9524-24aa0cc3f2b6" />
+<img width="1005" height="371" alt="Screenshot 2026-05-15 233131" src="https://github.com/user-attachments/assets/cd11076b-ac07-4848-8a08-1967d69f6787" />
+<img width="1904" height="904" alt="Screenshot 2026-05-15 231238" src="https://github.com/user-attachments/assets/0ea9e824-501f-484b-b64e-8c27f6e31dab" />
