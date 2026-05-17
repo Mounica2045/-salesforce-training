@@ -227,3 +227,8 @@ Complex automation can cause:
 
 Poor automation can create incorrect updates, duplicate actions, or performance issues. Developers must ensure automation is accurate, efficient, and necessary before implementing it.
 
+#TRAILHEAD PRACTICE 
+
+<img width="1557" height="687" alt="Screenshot 2026-05-17 195440" src="https://github.com/user-attachments/assets/9f4eadcb-b259-40d7-8840-c4213c3e8dbe" />
+<img width="1906" height="955" alt="Screenshot 2026-05-17 195402" src="https://github.com/user-attachments/assets/521a5e6a-600d-4940-8f64-23b9899b111c" />
+
